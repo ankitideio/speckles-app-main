@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C92A2D7F-702E-4EBE-BD74-4F3CBE8A257F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2F660A2-315B-422D-8F4D-2B5DD14120D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iSignIn/Attendees VCs/AttendeeSigninTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "buttonSubmitAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF88326B-FAE3-49EF-AC61-257B8D894A60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iSignIn/Attendees VCs/AttendeeSigninTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "mealSwitchAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF88326B-FAE3-49EF-AC61-257B8D894A60 - e6284ade13a976f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iSignIn.AttendeeSigninTableViewController.mealSwitchAction(__C.UISwitch) -&gt; ()"
+                  moduleName = "iSignIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/extremeagile/Documents/GitHub/new-iSignIn/iSignIn/Attendees%20VCs/AttendeeSigninTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "BF88326B-FAE3-49EF-AC61-257B8D894A60 - e6284ade13a976f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iSignIn.AttendeeSigninTableViewController.mealSwitchAction(__C.UISwitch) -&gt; ()"
+                  moduleName = "iSignIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/extremeagile/Documents/GitHub/new-iSignIn/iSignIn/Attendees%20VCs/AttendeeSigninTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71EA723B-0446-41F2-A946-C32711C6D3D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iSignIn/Attendees VCs/AttendeeSigninTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "mnSwitchAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71EA723B-0446-41F2-A946-C32711C6D3D2 - 3954d6d08920f49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iSignIn.AttendeeSigninTableViewController.mnSwitchAction(__C.UISwitch) -&gt; ()"
+                  moduleName = "iSignIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/extremeagile/Documents/GitHub/new-iSignIn/iSignIn/Attendees%20VCs/AttendeeSigninTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "71EA723B-0446-41F2-A946-C32711C6D3D2 - 3954d6d08920f49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iSignIn.AttendeeSigninTableViewController.mnSwitchAction(__C.UISwitch) -&gt; ()"
+                  moduleName = "iSignIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/extremeagile/Documents/GitHub/new-iSignIn/iSignIn/Attendees%20VCs/AttendeeSigninTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFC88CED-797E-4EBF-B6DA-AE84DE48C2FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iSignIn/Attendees VCs/AttendeeSigninTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "njSwitchAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FFC88CED-797E-4EBF-B6DA-AE84DE48C2FC - 88a256e8c77d60f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iSignIn.AttendeeSigninTableViewController.njSwitchAction(__C.UISwitch) -&gt; ()"
+                  moduleName = "iSignIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/extremeagile/Documents/GitHub/new-iSignIn/iSignIn/Attendees%20VCs/AttendeeSigninTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "FFC88CED-797E-4EBF-B6DA-AE84DE48C2FC - 88a256e8c77d60f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iSignIn.AttendeeSigninTableViewController.njSwitchAction(__C.UISwitch) -&gt; ()"
+                  moduleName = "iSignIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/extremeagile/Documents/GitHub/new-iSignIn/iSignIn/Attendees%20VCs/AttendeeSigninTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "048BE60A-A185-4473-93C7-8046C87816A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iSignIn/Attendees VCs/AttendeeSigninTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "vtSwitchAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "048BE60A-A185-4473-93C7-8046C87816A0 - 7f3090767fd0cd7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iSignIn.AttendeeSigninTableViewController.vtSwitchAction(__C.UISwitch) -&gt; ()"
+                  moduleName = "iSignIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/extremeagile/Documents/GitHub/new-iSignIn/iSignIn/Attendees%20VCs/AttendeeSigninTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "048BE60A-A185-4473-93C7-8046C87816A0 - 7f3090767fd0cd7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iSignIn.AttendeeSigninTableViewController.vtSwitchAction(__C.UISwitch) -&gt; ()"
+                  moduleName = "iSignIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/extremeagile/Documents/GitHub/new-iSignIn/iSignIn/Attendees%20VCs/AttendeeSigninTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EC39423-669A-4EB0-97C7-43D12C543D86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iSignIn/Attendees VCs/AttendeeSigninTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "textFieldEmailDidChange(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7EC39423-669A-4EB0-97C7-43D12C543D86 - a005d74ef7bf232b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iSignIn.AttendeeSigninTableViewController.textFieldEmailDidChange(__C.UITextField) -&gt; ()"
+                  moduleName = "iSignIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/extremeagile/Documents/GitHub/new-iSignIn/iSignIn/Attendees%20VCs/AttendeeSigninTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "7EC39423-669A-4EB0-97C7-43D12C543D86 - fb5397e8b6ef704c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in iSignIn.AttendeeSigninTableViewController.textFieldEmailDidChange(__C.UITextField) -&gt; ()"
+                  moduleName = "iSignIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/extremeagile/Documents/GitHub/new-iSignIn/iSignIn/Attendees%20VCs/AttendeeSigninTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01C4018B-23D9-47B2-AAEA-2D3289096E93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iSignIn/Attendees VCs/AttendeeSigninTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "textFieldNpiDidChange(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "01C4018B-23D9-47B2-AAEA-2D3289096E93 - 2a86b17388c87b1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iSignIn.AttendeeSigninTableViewController.textFieldNpiDidChange(__C.UITextField) -&gt; ()"
+                  moduleName = "iSignIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/extremeagile/Documents/GitHub/new-iSignIn/iSignIn/Attendees%20VCs/AttendeeSigninTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "01C4018B-23D9-47B2-AAEA-2D3289096E93 - 6b5dfeef3fbaa272"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in iSignIn.AttendeeSigninTableViewController.textFieldNpiDidChange(__C.UITextField) -&gt; ()"
+                  moduleName = "iSignIn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/extremeagile/Documents/GitHub/new-iSignIn/iSignIn/Attendees%20VCs/AttendeeSigninTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

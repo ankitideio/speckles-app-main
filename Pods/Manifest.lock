@@ -1,0 +1,30 @@
+PODS:
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - IQKeyboardManagerSwift (6.5.12)
+  - Kingfisher (6.3.1)
+  - SwiftAlgorithms (1.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 6.0)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - SwiftAlgorithms
+
+SPEC CHECKSUMS:
+  Charts: ce0768268078eee0336f122c3c4ca248e4e204c5
+  IQKeyboardManagerSwift: 371b08cb39664fb56030f5345c815a4ffc74bbc0
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+
+PODFILE CHECKSUM: a597b0bca577b5693725ac7a74ad9158282730f9
+
+COCOAPODS: 1.12.1
